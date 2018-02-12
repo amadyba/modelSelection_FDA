@@ -3,11 +3,11 @@ Here, our project deals with the selection model when we have functional data by
 
 ## Dataset
 
-The dataset used in this project can be found on  [CO2 emissions](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC) .
+The dataset used in this project can be found on  [World Bank](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC) website.
 
 ## Install
 
-This project requires R software 6 and the following R packages installed:
+This project requires R software and the following R packages installed:
 
    - dplyr
    - tidyr
